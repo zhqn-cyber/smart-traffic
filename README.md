@@ -20,5 +20,6 @@
 
 ### 1. Репозиторийді жүктеу (Клонирование)
 ```bash
-git clone <РЕПОЗИТОРИЙ_СІЛТЕМЕСІ>
+git clone <https://github.com/zhqn-cyber/smart-traffic.git>
+
 cd <traffic>
